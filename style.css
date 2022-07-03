@@ -5,6 +5,7 @@ div{
     width: 100vw;
     margin: 0;
     font-size: 2vw;
+    padding-top: 1vw;
 }
 h1{
     color: goldenrod;
@@ -19,5 +20,5 @@ p{
     color: rgb(83, 172, 255);
 }
 img{
-    width: 100vw;
+    width: 90vw;
 }
