@@ -18,11 +18,16 @@ h3{
     color: greenyellow;
     font-size: 2em;
 }
-p{
+#para{
     font-size: 1em;
     color: rgb(83, 172, 255);
+    width: 49vw;
+    /* background-color: blue; */
+    align-items: center;
+    margin-left: 13em;
+    /* display: flex; */
+    text-align: center;
 }
 img{
     height: 80vw;
-    
 }
